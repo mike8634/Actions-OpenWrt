@@ -20,4 +20,4 @@ echo 'src-git passwall https://github.com/xiaorouji/openwrt-passwall' >>feeds.co
 # Add APP
 cd package
 git clone https://github.com/sirpdboy/luci-app-lucky.git 
-git clone https://github.com/brvphoenix/luci-app-wrtbwmon.git
+git clone https://github.com/sirpdboy/luci-app-partexp.git
